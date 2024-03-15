@@ -1,5 +1,8 @@
 # Ex02 Django ORM Web Application
-## Date:13/03/2024 
+## Date:08.03.2024
+## Name: HARISHA.S
+## Roll No:212223040063
+## DEPT:CSE
 
 ## AIM
 To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
