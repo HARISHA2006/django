@@ -5,10 +5,11 @@
 ## DEPT:CSE
 
 ## AIM
-To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
+To develop a Django application to store and retrieve data from a train database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
-![alt text](<Screenshot 2024-03-13 022115.png>)
+![Screenshot 2024-03-15 060956](https://github.com/HARISHA2006/django/assets/148843830/ca3b5c32-0e2a-4776-a2c2-7df555ddb3a0)
+
 
 ## DESIGN STEPS
 
@@ -22,7 +23,7 @@ Create a new app in Django project
 Enter the code for admin.py and models.py
 
 ### STEP 4:
-Execute Django admin and create details for 10 books
+Execute Django admin and create details for 10 train
 
 ## PROGRAM
 
