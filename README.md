@@ -9,6 +9,10 @@ To develop a Django application to store and retrieve data from a train database
 
 ## Entity Relationship Diagram
 
+
+
+
+
 ![web ex 2](https://github.com/HARISHA2006/django/assets/148843830/d364a8e1-00cf-4ea3-b79f-a4b35187d204)
 
 
