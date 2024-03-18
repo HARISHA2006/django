@@ -8,7 +8,8 @@
 To develop a Django application to store and retrieve data from a train database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
-![Screenshot 2024-03-15 060956](https://github.com/HARISHA2006/django/assets/148843830/ca3b5c32-0e2a-4776-a2c2-7df555ddb3a0)
+
+![web ex 2](https://github.com/HARISHA2006/django/assets/148843830/d364a8e1-00cf-4ea3-b79f-a4b35187d204)
 
 
 ## DESIGN STEPS
